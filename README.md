@@ -1,4 +1,4 @@
 # html-portfolio
-Journey to being a Full Stack Web Developer
+First upload on github
 link to the portfolio
 https://ryze-7.github.io/html-portfolio/
